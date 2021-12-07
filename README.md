@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 - 🔭 I’m currently working on an exciting **E-commerce website** using Next.js!
 
 - 🌱 I’m currently learning **Golang, Next.js, Tailwind** and.. many more!
@@ -13,5 +11,3 @@
 - ⚡ Fun fact: Love-Hate relationship with javascript
 
 [![EchoKes' GitHub stats](https://github-readme-stats.vercel.app/api?username=EchoKes)](https://github.com/EchoKes/EchoKes)
-
--->
