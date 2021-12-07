@@ -10,4 +10,4 @@
 
 - ⚡ Fun fact: Love-Hate relationship with javascript
 
-[![EchoKes GitHub stats](https://github-readme-stats.vercel.app/api?username=EchoKes)](https://github.com/EchoKes/EchoKes&show_icons=true&theme=swift)
+[![EchoKes GitHub stats](https://github-readme-stats.vercel.app/api?username=EchoKes)](https://github.com/EchoKes/EchoKes&show_icons=true&theme=buefy)
