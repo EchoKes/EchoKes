@@ -6,8 +6,8 @@
 
 - 👯 I’m looking for a partner or someone with **Reactjs** experience!
 
-- 📫 How to reach me: [Email](mailto:iamkester1@gmail.com)
+- 📫 How to reach me: [Contact Me](mailto:iamkester1@gmail.com)
 
 - ⚡ Fun fact: Love-Hate relationship with javascript
 
-[![EchoKes GitHub stats](https://github-readme-stats.vercel.app/api?username=EchoKes)](https://github.com/EchoKes/EchoKes)
+[![EchoKes GitHub stats](https://github-readme-stats.vercel.app/api?username=EchoKes)](https://github.com/EchoKes/EchoKes&show_icons=true&theme=swift)
