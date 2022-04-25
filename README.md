@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an exciting **E-commerce website** using **Next.js**!
+- 🔭 I’m currently building an exciting **platform** using **Vue3, Express, and Flutter**!
 
-- 🌱 I’m currently learning **Golang, Next.js, Tailwind** and.. many more!
-
-- 👯 I’m looking for a partner or someone with **Reactjs** experience!
+- 🌱 I’m currently learning **TypeORM, GraphQL** and.. many more!
 
 - 📫 How to reach me: [Contact Me](mailto:iamkester1@gmail.com)
 
