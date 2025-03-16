@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently building an exciting **platform** using **Vue3, Express, and Flutter**!
+- 🔭 I’m excited to be back after a long term hiatus!
 
 - 🌱 I’m currently learning **Three.js & Svelte**!
 
@@ -9,4 +9,4 @@
 - ⚡ Fun fact: Love-Hate relationship with javascript (don't we all?)
 
 
-![EchoKes' GitHub stats](https://github-readme-stats.vercel.app/api?username=EchoKes&show_icons=true&theme=ayu-mirage)
+<> ![EchoKes' GitHub stats](https://github-readme-stats.vercel.app/api?username=EchoKes&show_icons=true&theme=ayu-mirage)
